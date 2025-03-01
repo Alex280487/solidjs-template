@@ -1,4 +1,4 @@
-# Telegram Mini Apps Solid.js Template
+b5ee9c7201010101001e00003800000000363762343538663439303630646634393433393762326331# Telegram Mini Apps Solid.js Template
 
 This template demonstrates how developers can implement a single-page application on the Telegram
 Mini Apps platform using the following technologies and libraries:
